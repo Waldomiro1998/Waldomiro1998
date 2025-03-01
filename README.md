@@ -10,11 +10,13 @@
 
 <h1>Languages and tools</h1>
 <div align="center">
-  <img height=45 width=45 style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img height=45 width=45 style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height=45 width=45 style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img height=45 width=45 style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height=60 width=60 style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height=60 width=60 style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height=60 width=60 style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" />
+  <img height=60 width=60 style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" />
+  <img height=60 width=60 style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+          
 </div>
 
 <div>
